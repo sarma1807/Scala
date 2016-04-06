@@ -192,6 +192,7 @@ d
 scala> `println("thats it for basic Scala introduction ...")`
 
 scala> `println("for more information, please visit http://www.scala-lang.org/ ")`
+
 http://www.scala-lang.org/
 
 scala> `:quit`
