@@ -1,4 +1,4 @@
-#### Scala Fundamentals - Part 1
+## Scala Fundamentals - Part 1
 
 ---
 
@@ -25,7 +25,7 @@ Scala can automatically
 
 ---
 
-##### Scala can automatically declare variables and handle their datatypes
+#### Scala can automatically declare variables and handle their datatypes
 
 scala> `"hello world"`
 
@@ -57,7 +57,7 @@ scala> `"hello " + "world !"`
 
 ---
 
-##### Variables & Immutable Values
+#### Variables & Immutable Values
 
 scala> `var x = "hello world"`
 
@@ -95,11 +95,11 @@ scala> `val y = "hello world" + ". we love scala."`
 
 `y: String = hello world. we love scala.`
 
-##### redeclared val y ...
+##### redeclared val y
 
 ---
 
-##### for loop
+#### for loop
 
 scala> `for(i <- 1 to 5) println(i)`
 
@@ -111,9 +111,11 @@ scala> `for(i <- 1 to 5) println(i)`
 5
 ```
 
-##### automatic variable declaration ... automatic increments ...
+##### automatic variable declaration & automatic increments
 
 ---
+
+#### Code reduction
 
 scala> `var numList = for(i <- 1 to 5) yield i`
 
