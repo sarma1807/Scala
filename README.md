@@ -2,4 +2,4 @@
 
 ##### http://www.scala-lang.org/
 
-##### REPL = Read–Eval–Print Loop
+##### REPL = Read–Evaluate–Print Loop
