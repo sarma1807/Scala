@@ -1,1 +1,3 @@
-# Scala-code
+### Scala
+
+http://www.scala-lang.org/
